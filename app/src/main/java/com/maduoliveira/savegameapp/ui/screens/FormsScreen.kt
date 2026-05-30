@@ -14,9 +14,6 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.text.KeyboardOptions
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.List
-import androidx.compose.material.icons.filled.Info
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
@@ -44,7 +41,7 @@ import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import com.maduoliveira.savegameapp.R
-import com.maduoliveira.savegameapp.domain.forms.FormsUiState
+import com.maduoliveira.savegameapp.ui.screens.forms.FormsUiState
 import com.maduoliveira.savegameapp.ui.theme.TypographySaveGame
 
 @OptIn(ExperimentalMaterial3Api::class)

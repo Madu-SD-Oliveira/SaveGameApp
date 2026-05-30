@@ -30,7 +30,6 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
 import com.maduoliveira.savegameapp.R
-import com.maduoliveira.savegameapp.domain.dashboard.DashboardUiState
 import com.maduoliveira.savegameapp.ui.nav.Screens
 import com.maduoliveira.savegameapp.ui.theme.SaveGameAppTheme
 import com.maduoliveira.savegameapp.ui.theme.TypographySaveGame

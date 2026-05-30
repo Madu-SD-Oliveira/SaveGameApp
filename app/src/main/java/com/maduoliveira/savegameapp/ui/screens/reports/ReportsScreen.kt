@@ -43,7 +43,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.maduoliveira.savegameapp.R
-import com.maduoliveira.savegameapp.domain.reports.ReportsUiState
 import com.maduoliveira.savegameapp.ui.screens.dashboard.customCardShape
 import com.maduoliveira.savegameapp.ui.theme.TypographySaveGame
 

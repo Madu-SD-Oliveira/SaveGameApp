@@ -20,16 +20,16 @@ import androidx.navigation.navArgument
 import com.maduoliveira.savegameapp.R
 import com.maduoliveira.savegameapp.SaveGameApplication
 import com.maduoliveira.savegameapp.data.repository.financesFactory
-import com.maduoliveira.savegameapp.domain.dashboard.DashboardViewModel
-import com.maduoliveira.savegameapp.domain.forms.FormsViewModel
-import com.maduoliveira.savegameapp.domain.reports.ReportsViewModel
-import com.maduoliveira.savegameapp.domain.settings.SettingsViewModel
-import com.maduoliveira.savegameapp.domain.transaction.TransactionsViewModel
+import com.maduoliveira.savegameapp.ui.screens.dashboard.DashboardViewModel
+import com.maduoliveira.savegameapp.ui.screens.forms.FormsViewModel
+import com.maduoliveira.savegameapp.ui.screens.reports.ReportsViewModel
+import com.maduoliveira.savegameapp.ui.screens.settings.SettingsViewModel
+import com.maduoliveira.savegameapp.ui.screens.transaction.TransactionsViewModel
 import com.maduoliveira.savegameapp.ui.screens.FormsScreen
 import com.maduoliveira.savegameapp.ui.screens.reports.ReportsScreen
 import com.maduoliveira.savegameapp.ui.screens.dashboard.DashboardScreen
 import com.maduoliveira.savegameapp.ui.screens.SaveGameSplashScreen
-import com.maduoliveira.savegameapp.ui.screens.SettingsScreen
+import com.maduoliveira.savegameapp.ui.screens.settings.SettingsScreen
 import com.maduoliveira.savegameapp.ui.screens.transaction.TransactionsScreen
 
 @SuppressLint("LocalContextGetResourceValueCall")

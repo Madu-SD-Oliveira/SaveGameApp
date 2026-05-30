@@ -31,7 +31,6 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme.colorScheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -46,7 +45,6 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.maduoliveira.savegameapp.R
-import com.maduoliveira.savegameapp.domain.transaction.TransactionUIModel
 import com.maduoliveira.savegameapp.ui.theme.*
 import com.maduoliveira.savegameapp.ui.theme.TypographySaveGame
 
