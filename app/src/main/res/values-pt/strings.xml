@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaveGame</string>
+    <string name="Settings">Ajustes</string>
+    <string name="Message">Menssagem</string>
+    <string name="Person">Pessoa</string>
+    <string name="Plus">Adicionar</string>
+    <string name="loading">Carregar</string>
+    <string name="Leaf">Folha</string>
+    <string name="slogan">Grana controlada, missão cumprida.</string>
+    <string name="settings">AJUSTES</string>
+    <string name="level">NÍVEL %1$d</string>
+    <string name="dark_mode">Modo escuro</string>
+    <string name="alternar_apar_ncia_do_sistema">Alternar aparência do sistema</string>
+    <string name="achievements">CONQUISTAS</string>
+    <string name="savegame_backup">SaveGame Backup</string>
+    <string name="statistics">ESTATÍSTICAS</string>
+    <string name="incomes">RECEITAS</string>
+    <string name="expenses">GASTOS</string>
+    <string name="no_data">Nenhum dado registrado neste período.</string>
+    <string name="r_2f">R$ %.2f</string>
+    <string name="export_json_backup">EXPORTAR JSON BACKUP</string>
+    <string name="new_input">NOVA ENTRADA</string>
+    <string name="type_of_transaction">Tipo de transação</string>
+    <string name="value_rs">Valor (R$)</string>
+    <string name="date">Data</string>
+    <string name="description_optional">Descrição (Opcional)</string>
+    <string name="ex_description">Ex: Compra de Hardware, Salário...</string>
+    <string name="choose_a_category">Escolha uma categoria</string>
+    <string name="choose_a_sector">Escolha um setor</string>
+    <string name="category">Categoria</string>
+    <string name="choose_an_account">Escolha uma conta</string>
+    <string name="conta_de_destino_origem">Conta de Destino/Origem</string>
+    <string name="concluir_mission">CONCLUIR MISSÃO</string>
+    <string name="excluir_mission">Excluir Missão?</string>
+    <string name="delete">EXCLUIR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="transactions">TRANSAÇÕES</string>
+    <string name="search">Pesquisar transação...</string>
+    <string name="sector">Setor:</string>
+    <string name="plus_rs">"+ R$ "</string>
+    <string name="minus_rs">"- R$ "</string>
+    <string name="no_description">Sem descrição</string>
+    <string name="done_in">Concluído em: %1$s</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="got_it">Entendi!</string>
+    <string name="level_title">Nível %1$d: %2$s</string>
+    <string name="level_description">Você possui atualmente %1$d XP. Continue registrando suas missões financeiras e poupando para alcançar o próximo nível!</string>
+    <string name="recent_mission">MISSÕES RECENTES</string>
+    <string name="no_register">Nenhuma missão registrada ainda.</string>
+    <string name="monthly_percentage_change">%1$s%2$.1f%% este mês.</string>
+    <string name="current_balance">Saldo atual</string>
+    <string name="monthly_status_percentage">%1$s%2$.1f%% este mês.</string>
+    <string name="your_achievements">Suas conquistas</string>
+    <string name="see_all">Ver Tudo</string>
+    <string name="badge_description">Badge de %1$s</string>
+    <string name="income">ENTRADA</string>
+    <string name="expense">SAÍDA</string>
+    <string name="date_placeholder">DD/MM/AAAA</string>
+    <string name="one_month">1 Mês</string>
+    <string name="three_months">3 Meses</string>
+    <string name="total_rs">Total: R$ %.2f</string>
+    <string name="delete_confirmation">Tem certeza que deseja apagar \'%1$s\'? Essa ação não pode ser desfeita.</string>
+    <string name="all">TODOS</string>
+    <string name="tactical">Tático</string>
+    <string name="strategic">Estratégico</string>
+    <string name="expand_search">Expandir Busca</string>
+    <string name="badge_wood_title">Madeira</string>
+    <string name="badge_wood_desc">Desbloqueado ao iniciar sua jornada.</string>
+    <string name="badge_iron_title">Ferro</string>
+    <string name="badge_iron_desc">Acumule pelo menos 1000 XP total.</string>
+    <string name="badge_quartz_title">Quartzo</string>
+    <string name="badge_quartz_desc">Acumule pelo menos 2000 XP total.</string>
+    <string name="badge_bronze_title">Bronze</string>
+    <string name="badge_bronze_desc">Acumule pelo menos 3000 XP total.</string>
+    <string name="badge_silver_title">Prata</string>
+    <string name="badge_silver_desc">Acumule pelo menos 4000 XP total.</string>
+    <string name="badge_gold_title">Ouro</string>
+    <string name="badge_gold_desc">Acumule pelo menos 5000 XP total.</string>
+    <string name="badge_diamond_title">Diamante</string>
+    <string name="badge_diamond_desc">Alcançado apenas por lendas das finanças.</string>
+    <string name="blocked">Bloqueado</string>
+    <string name="name">Título</string>
+    <string name="title_example">Compras...</string>
+
+    <!-- Categorias (Modern) -->
+    <string name="cat_food_delivery">Alimentação &amp; Delivery</string>
+    <string name="cat_housing_bills">Habitação &amp; Contas</string>
+    <string name="cat_streaming_subs">Streaming &amp; Assinaturas</string>
+    <string name="cat_transport_apps">Transporte &amp; Apps</string>
+    <string name="cat_health_wellness">Saúde &amp; Bem-estar</string>
+    <string name="cat_education_online">Educação &amp; Cursos Online</string>
+    <string name="cat_leisure_ent">Lazer &amp; Entretenimento</string>
+    <string name="cat_shopping_ecommerce">Compras &amp; E-commerce</string>
+    <string name="cat_market_fair">Mercado &amp; Feira</string>
+    <string name="cat_pets">Pets</string>
+    <string name="cat_travel_vacation">Viagens &amp; Férias</string>
+    <string name="cat_personal_care">Cuidados Pessoais</string>
+    <string name="cat_tech_gadgets">Tecnologia &amp; Gadgets</string>
+    <string name="cat_invest_reserve">Investimentos &amp; Reserva</string>
+    <string name="cat_unforeseen">Imprevistos</string>
+    <string name="cat_others">Outros</string>
+
+    <!-- Setores -->
+    <string name="sec_personal_fixed">Pessoal Fixo</string>
+    <string name="sec_personal_occasional">Pessoal Ocasional</string>
+    <string name="sec_general_fixed">Geral Fixo</string>
+    <string name="sec_general_occasional">Geral Ocasional</string>
+
+    <!-- Tipos de Conta -->
+    <string name="acc_wallet">Carteira</string>
+    <string name="acc_checking_main">Conta Corrente Principal</string>
+    <string name="acc_credit_card">Cartão de Crédito</string>
+    <string name="acc_savings_reserve">Conta Poupança / Reserva</string>
+    <string name="acc_meal_voucher">Vale Refeição / Alimentação</string>
+
+    <string name="choose_a_channel">Escolha um canal</string>
+
+    <!-- Canais -->
+    <string name="cha_salary_clt">Salário (CLT/PJ)</string>
+    <string name="cha_freelance_projects">Freelance / Projetos</string>
+    <string name="cha_invest_dividends">Investimentos / Dividendos</string>
+    <string name="cha_sales_secondhand">Vendas / Desapegos</string>
+    <string name="cha_cashback_rewards">Cashback / Recompensas</string>
+    <string name="cha_loans_refunds">Empréstimos / Reembolsos</string>
+    <string name="cha_gift_donation">Presente / Doação</string>
+    <string name="type">Tipo</string>
+    <string name="editar">Edit</string>
+</resources>

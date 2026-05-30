@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">SaveGame</string>
+    <string name="loading">LOADING...</string>
+    <string name="title_activity_dashboard_screen" translatable="false">DashboardScreen</string>
+    <string name="Heart" translatable="false">Heart</string>
+    <string name="Leaf">Leaf</string>
+    <string name="Drop" translatable="false">Drop</string>
+    <string name="Circle" translatable="false">Circle</string>
+    <string name="Laptop" translatable="false">Laptop</string>
+    <string name="Home" translatable="false">Home</string>
+    <string name="Bell" translatable="false">Bell</string>
+    <string name="Message">Message</string>
+    <string name="Person">Person</string>
+    <string name="Plus">Plus</string>
+    <string name="Calendar" translatable="false">Calendar</string>
+    <string name="Settings">Settings</string>
+    <string name="slogan">Money under control, mission accomplished.</string>
+    <string name="save_game_app" translatable="false">SAVE GAME APP</string>
+    <string name="settings">SETTINGS</string>
+    <string name="level">LEVEL %1$d</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="alternar_apar_ncia_do_sistema">Change system appearance</string>
+    <string name="achievements">ACHIEVEMENTS</string>
+    <string name="savegame_backup">SaveGame Backup</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="incomes">INCOMES</string>
+    <string name="expenses">EXPENSES</string>
+    <string name="no_data">No data was recorded during this period.</string>
+    <string name="r_2f">$ %.2f</string>
+    <string name="export_json_backup">EXPORT JSON BACKUP</string>
+    <string name="new_input">NEW INPUT</string>
+    <string name="type_of_transaction">Type of transaction</string>
+    <string name="value_rs">Value ($)</string>
+    <string name="_0_00" translatable="false">0.00</string>
+    <string name="date">Date</string>
+    <string name="description_optional">Description (Optional)</string>
+    <string name="ex_description">E.g.: Hardware purchase, Salary...</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="choose_a_sector">Choose a sector</string>
+    <string name="category">Category</string>
+    <string name="choose_an_account">Choose an account</string>
+    <string name="conta_de_destino_origem">Destination/Source Account</string>
+    <string name="concluir_mission">COMPLETE MISSION</string>
+    <string name="excluir_mission">Delete Mission?</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="transactions">TRANSACTIONS</string>
+    <string name="search">Search transaction...</string>
+    <string name="ordenacao" translatable="false">Ordenação</string>
+    <string name="sector">Sector:</string>
+    <string name="plus_rs">"+ $ "</string>
+    <string name="minus_rs">"- $ "</string>
+    <string name="no_description">No description</string>
+    <string name="done_in">Completed on: %1$s</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="fechar_busca" translatable="false">Fechar busca</string>
+    <string name="got_it">Got it!</string>
+    <string name="level_title">Level %1$d: %2$s</string>
+    <string name="level_description">You currently have %1$d XP. Keep logging your financial missions and saving to reach the next level!</string>
+    <string name="recent_mission">RECENT MISSIONS</string>
+    <string name="no_register">No missions recorded yet.</string>
+    <string name="monthly_percentage_change" formatted="false">%1$s%2$.1f%% this month.</string>
+    <string name="current_balance">Current balance</string>
+    <string name="monthly_status_percentage">%1$s%2$.1f%% this month</string>
+    <string name="your_achievements">Your achievements</string>
+    <string name="see_all">See All</string>
+    <string name="badge_description">Badge of %1$s</string>
+    <string name="income">INCOME</string>
+    <string name="expense">EXPENSE</string>
+    <string name="date_placeholder">DD/MM/YYYY</string>
+    <string name="one_month">1 Month</string>
+    <string name="three_months">3 Months</string>
+    <string name="total_rs">Total: $ %.2f</string>
+    <string name="delete_confirmation">Are you sure you want to delete \'%1$s\'? This action cannot be undone.</string>
+    <string name="all">All</string>
+    <string name="tactical">Tactical</string>
+    <string name="strategic">Strategic</string>
+    <string name="expand_search">Expand Search</string>
+    <string name="badge_wood_title">Wood</string>
+    <string name="badge_wood_desc">Unlocked by starting your journey.</string>
+    <string name="badge_iron_title">Iron</string>
+    <string name="badge_iron_desc">Accumulate at least 1000 total XP.</string>
+    <string name="badge_quartz_title">Quartz</string>
+    <string name="badge_quartz_desc">Accumulate at least 2000 total XP.</string>
+    <string name="badge_bronze_title">Bronze</string>
+    <string name="badge_bronze_desc">Accumulate at least 3000 total XP.</string>
+    <string name="badge_silver_title">Silver</string>
+    <string name="badge_silver_desc">Accumulate at least 4000 total XP.</string>
+    <string name="badge_gold_title">Gold</string>
+    <string name="badge_gold_desc">Accumulate at least 5000 total XP.</string>
+    <string name="badge_diamond_title">Diamond</string>
+    <string name="badge_diamond_desc">Reached only by finance legends.</string>
+    <string name="blocked">Blocked</string>
+    <string name="name">Title</string>
+    <string name="title_example">Shopping...</string>
+
+    <!-- Categories (Modern) -->
+    <string name="cat_food_delivery">Food &amp; Delivery</string>
+    <string name="cat_housing_bills">Housing &amp; Bills</string>
+    <string name="cat_streaming_subs">Streaming &amp; Subscriptions</string>
+    <string name="cat_transport_apps">Transport &amp; Apps</string>
+    <string name="cat_health_wellness">Health &amp; Wellness</string>
+    <string name="cat_education_online">Education &amp; Online Courses</string>
+    <string name="cat_leisure_ent">Leisure &amp; Entertainment</string>
+    <string name="cat_shopping_ecommerce">Shopping &amp; E-commerce</string>
+    <string name="cat_market_fair">Market &amp; Fair</string>
+    <string name="cat_pets">Pets</string>
+    <string name="cat_travel_vacation">Travel &amp; Vacations</string>
+    <string name="cat_personal_care">Personal Care</string>
+    <string name="cat_tech_gadgets">Technology &amp; Gadgets</string>
+    <string name="cat_invest_reserve">Investments &amp; Reserve</string>
+    <string name="cat_unforeseen">Unforeseen</string>
+    <string name="cat_others">Others</string>
+
+    <!-- Sectors -->
+    <string name="sec_personal_fixed">Personal Fixed</string>
+    <string name="sec_personal_occasional">Personal Occasional</string>
+    <string name="sec_general_fixed">General Fixed</string>
+    <string name="sec_general_occasional">General Occasional</string>
+
+    <!-- Account Types -->
+    <string name="acc_wallet">Wallet</string>
+    <string name="acc_checking_main">Main Checking Account</string>
+    <string name="acc_credit_card">Credit Card</string>
+    <string name="acc_savings_reserve">Savings Account / Reserve</string>
+    <string name="acc_meal_voucher">Meal / Food Voucher</string>
+
+    <string name="choose_a_channel">Choose a channel</string>
+
+    <!-- Channels -->
+    <string name="cha_salary_clt">Salary (CLT/PJ)</string>
+    <string name="cha_freelance_projects">Freelance / Projects</string>
+    <string name="cha_invest_dividends">Investments / Dividends</string>
+    <string name="cha_sales_secondhand">Sales / Second hand</string>
+    <string name="cha_cashback_rewards">Cashback / Rewards</string>
+    <string name="cha_loans_refunds">Loans / Refunds</string>
+    <string name="cha_gift_donation">Gift / Donation</string>
+    <string name="type">Type</string>
+    <string name="editar">Edit</string>
+</resources>
